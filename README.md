@@ -138,7 +138,7 @@
 <h3 align="left">🎨🤖Generative AI </h3>
 <ul>
   <li>
-    <b>Face Sketch Generation 🎨🖼️<</b>: project focused on generating realistic face sketches from real images. This project compares the performance of different Generative Adversarial Networks (GANs)—specifically DCGAN (Deep Convolutional GAN), WGAN (Wasserstein GAN), and VAN (Variational Autoencoder GAN). The goal is to analyze how each architecture generates high-quality sketches, with a focus on improving visual quality, stability, and diversity in the generated images. 
+    <b>Face Sketch Generation 🎨🖼️</b>: project focused on generating realistic face sketches from real images. This project compares the performance of different Generative Adversarial Networks (GANs)—specifically DCGAN (Deep Convolutional GAN), WGAN (Wasserstein GAN), and VAN (Variational Autoencoder GAN). The goal is to analyze how each architecture generates high-quality sketches, with a focus on improving visual quality, stability, and diversity in the generated images. 
     <a href="https://github.com/ELHALOSE/Face_Sketch" target="_blank">[GitHub Repository]</a>
   </li>
 </ul>
