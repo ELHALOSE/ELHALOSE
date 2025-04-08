@@ -106,12 +106,22 @@
 ---
 
 <h3 align="left">🧠📚 Large Language Models (LLMs):</h3>
+
 <ul>
   <li>
     <b>Transformer Model 🧠🔍</b>: The project applies the Transformer architecture for text classification tasks. It uses a Transformer encoder to process text data and a decoder with a contextual mask for tasks like sequence generation and contextual understanding.
     <a href="https://github.com/ELHALOSE/trasnformer" target="_blank">[GitHub Repository]</a>
   </li>
 </ul>
+
+<ul>
+  <li>
+    <b>Deafbot 🤖🦻</b>: A project designed to help individuals with speech impairments (such as those who are mute or non-verbal) interact with Large Language Models (LLMs) like GPT or Gemini. Deafbot utilizes sign language recognition technology to translate gestures into text, enabling seamless communication with LLM bots. The system bridges the gap between users who communicate through sign language and advanced AI, facilitating real-time conversation and interaction.
+    <a href="https://github.com/ELHALOSE/GraduationProject" target="_blank">[GitHub Repository]</a>
+  </li>
+</ul>
+
+---
 
 
 
