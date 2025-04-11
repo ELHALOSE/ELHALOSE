@@ -56,7 +56,7 @@
   <li><b>Airline Passenger Satisfaction ✈️</b>: Predicts satisfaction using feedback and ML classification. <a href="https://github.com/ELHALOSE/airline_passenger_satisfaction">[GitHub]</a></li>
   <li><b>Titanic 🚢</b>: Predicts survival using classic Titanic dataset. <a href="https://github.com/MoemnElhalose/MLProjects">[GitHub]</a></li>
   <li><b>IBM HR Employee 📊</b>: Predicts employee attrition from satisfaction, work-life balance, etc. <a href="https://github.com/ELHALOSE/HR_employ">[GitHub]</a></li>
-  <li><b>Heart Disease Prediction ❤️</b>: Predicts heart disease using key health features. <a href="https://github.com/ELHALOSE/HR_employ">[GitHub]</a></li>
+  <li><b>Heart Disease Prediction ❤️</b>: Predicts heart disease using key health features. <a href="https://github.com/ELHALOSE/Heart-Disease">[GitHub]</a></li>
   <li><b>Bank Loan Prediction 💳📊</b>: Classifies loan applications using various ML models. <a href="https://github.com/ELHALOSE/Bank_Loan">[GitHub]</a></li>
 </ul>
 
