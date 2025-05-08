@@ -66,7 +66,7 @@
 <ul>
   <li><b>Chest X-ray Classification 👩‍⚕️</b>: Classifies chest diseases using CNNs and pre-trained models. <a href="https://github.com/ELHALOSE/Chest_xray">[GitHub]</a></li>
   <li><b>Gender Recognition 👩‍🦱👨‍🦱</b>: Uses CNNs to classify gender from facial features. <a href="https://github.com/ELHALOSE/Gender-Recognationy">[GitHub]</a></li>
-  <li><b>Footwear Impression Retrieval 👟🔍</b>:This project involves the retrieval of crime scene footwear impressions using a Siamese Network and Triplet Loss. <a href="https://github.com/ELHALOSE/Footwear_Impression">[GitHub]</a></li>
+  <li><b>Footwear Impression Retrieval 👟🔍</b>:This project involves the retrieval of crime scene footwear impressions using a Siamese Network and Triplet Loss. <a href="https://github.com/ELHALOSE/Footware_Impression">[GitHub]</a></li>
 </ul>
 
 ---
