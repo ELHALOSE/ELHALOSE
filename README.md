@@ -124,5 +124,16 @@
 
 ---
 
+<h3 align="left">📄🔍 Retrieval-Augmented Generation (RAG) Projects:</h3>
+<ul>
+  
+  <li>
+    <b>Medical Q&A Assistant 🩺🤖</b>: A RAG-based AI assistant that allows users to upload medical PDF documents and ask questions about their content. It combines document retrieval with powerful LLMs to provide accurate, context-aware answers. Built using LangChain, FAISS, , Streamlit API.
+    <a href="https://github.com/ELHALOSE/Medical_Q-A_Assistant" target="_blank">[GitHub Repository]</a>
+  </li>
+</ul>
+
+---
+
 
 
