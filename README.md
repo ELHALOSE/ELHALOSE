@@ -124,7 +124,7 @@
 
 ---
 
-<h3 align="left">📄🔍 Retrieval-Augmented Generation (RAG) Projects:</h3>
+<h3 align="left">📄🔍 Prompt Engineer Projects:</h3>
 <ul>
   
   <li>
