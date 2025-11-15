@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moemn Elhalose</h1>
-<h3 align="center">Artificial Intelligence Enthusiast</h3>
+<h3 align="center">Artificial Intelligence Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=elhalose&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -73,6 +73,8 @@
 
 <h3 align="left">👁️‍🗨️🤖 Computer Vision Projects:</h3>
 <ul>
+  <li><b>
+Football Player Tracking & Team Identification ⚽🎯: </b>End-to-end system for detecting, tracking, and assigning team colors using YOLOv11 + ByteTrack with custom video annotations.<a href="https://github.com/ELHALOSE/car-objcet-detection-yolo8">[GitHub]</a></li>
   <li><b>Car Object Detection YOLOv8 🚗🔍</b>: Detects cars in images using YOLOv8. <a href="https://github.com/ELHALOSE/car-objcet-detection-yolo8">[GitHub]</a></li>
   <li><b>Gym Step Counting 🏋️‍♂️</b>: Tracks steps during workouts using motion sensors. <a href="https://github.com/ELHALOSE/GYM">[GitHub]</a></li>
   <li><b>OCR License Plate Recognition 🚗🔢</b>: Uses OCR and CV to detect and extract license plate text. <a href="https://github.com/ELHALOSE/Optical_Character_Recognition">[GitHub]</a></li>
